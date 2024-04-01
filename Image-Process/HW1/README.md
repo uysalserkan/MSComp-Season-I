@@ -11,3 +11,7 @@ To Do.
 - https://en.wikipedia.org/wiki/Edge-preserving_smoothing
 - https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html
 - https://stackoverflow.com/questions/67270514/why-does-cv2-medianblur-returns-a-format-error
+- https://github.com/OzgurBagci/fastbilateral/tree/master
+- https://web.cs.hacettepe.edu.tr/~erkut/bil717.s12/w09-bilateral-nlmeans.pdf
+- https://dergipark.org.tr/en/download/article-file/384688 (Görüntülerindeki Gürültülerin Temizlenmesindeki
+  Etkisi)
