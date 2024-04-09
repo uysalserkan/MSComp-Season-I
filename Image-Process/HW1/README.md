@@ -1,7 +1,9 @@
 # Homework 1: Edge Preserving Filters
+
 To Do.
 
 ## References
+
 - https://medium.com/swlh/what-is-a-kuwahara-filter-77921ce286f2
 - https://en.wikipedia.org/wiki/Bilateral_filter
 - https://pytorch.org/docs/stable/generated/torch.clamp.html
