@@ -6,7 +6,7 @@ This repository contains projects related to image processing. The projects are 
 
 <center><img src="imgs/dark_humor.png" height="500" width="850"/></center>
 
-Edge-preserving smoothing or filtering is an image processing technique that smooths away noise or textures while retaining sharp edges.  
+Edge-preserving smoothing or filtering is an image processing technique that smooths away noise or textures while retaining sharp edges.
 Examples are the **median, bilateral, guided, anisotropic diffusion, and Kuwahara filters**. For more information, please refer to the [file](./HW1/CMP717_HW1.pdf).
 
 <table border="0">
