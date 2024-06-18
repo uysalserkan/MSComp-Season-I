@@ -99,7 +99,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.18.1
 scikit-image==0.23.2
-scikit-learn==1.4.2
+scikit-learn==1.5.0
 scipy==1.13.0
 Send2Trash==1.8.3
 six==1.16.0
